@@ -4,6 +4,8 @@ This project is used only for studying.
 # How to Start
 1. Use IntelliJ IDE and Run JpashopApplication
 
+or
+
 2. 
 ```
 ./gradlew build
